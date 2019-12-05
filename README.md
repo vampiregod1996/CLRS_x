@@ -13,6 +13,14 @@ A review of COMP7500
         2) fill from [0][j]
 
 2019-12-04 
+Go through
+    Amortised analysis
+        three method
+            1) Aggregate method
+            2) Accounting method
+            3) Potential method
+
+2019-12-04 
 TODO:
     Dynamic programming execise
         step 2
@@ -20,11 +28,17 @@ TODO:
         
 Go through
     Graph
-    Amortised analysis
-    NP
 
+    Amortised analysis
+        three method
+            1) Aggregate method
+            2) Accounting method
+            3) Potential method
+    NP
+    
 Practise
     DP
     AB
     Re
+
 
