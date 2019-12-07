@@ -20,7 +20,12 @@ Go through
             2) Accounting method
             3) Potential method
 
-2019-12-04 
+2019-12-05 
+Go through
+    Graph
+    NP
+
+2019-12-07
 TODO:
     Dynamic programming execise
         step 2
@@ -28,17 +33,10 @@ TODO:
         
 Go through
     Graph
-
-    Amortised analysis
-        three method
-            1) Aggregate method
-            2) Accounting method
-            3) Potential method
     NP
-    
+
 Practise
     DP
     AB
     Re
-
 
