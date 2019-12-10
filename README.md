@@ -25,8 +25,18 @@ Go through
     Graph
     NP
 
-2019-12-07
+2019-12-09
+Go through
+    Graph 1/2
+
+Practise
+    Big-O & recurence (past years questions)
+
+
+
+2019-12-10
 TODO:
+    cheat sheet
     Dynamic programming execise
         step 2
         time complexity
@@ -36,6 +46,7 @@ Go through
     NP
 
 Practise
+    all tutorials
     DP
     AB
     Re
