@@ -51,3 +51,18 @@ Practise
     AB
     Re
 
+2019-12-11 
+TODO list
+prepare C.S.
+    check notibility
+    2018-final-video
+
+Dynamic programming
+Amortised analysis
+NP
+graph
+    6 algorithms
+
+2019-mid Q1&2
+
+
