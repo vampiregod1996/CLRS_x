@@ -67,3 +67,6 @@ graph
     6 algorithms
 
 2019-mid Q1&2
+
+2019-12-14
+TODO restart
